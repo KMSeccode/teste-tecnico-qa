@@ -1,0 +1,23 @@
+# Dependências
+node_modules/
+
+# Arquivos do Cypress
+cypress/screenshots/
+cypress/videos/
+cypress/downloads/
+
+# Arquivos de ambiente
+.env
+.env.local
+*.env
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# IDE/Editores
+.idea/
+.vscode/
+*.swp
+*.swo
